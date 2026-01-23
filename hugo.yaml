@@ -37,16 +37,16 @@ menu:
       weight: 5
       params:
         type: search
-    - name: GitHub
+    - name: Facebook
       weight: 6
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "http://facebook.com"
       params:
-        icon: github
-    - name: Twitter
+        icon: facebook
+    - name: Instagram
       weight: 7
-      url: "https://twitter.com/"
+      url: "https://www.instagram.com/thtjuice/"
       params:
-        icon: x-twitter
+        icon: instagram
 
 page:
   width: normal
@@ -56,8 +56,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/branding/badgefleurwhite.png
-      dark: images/branding/badgefleurblack.png
+      path: badgefleurblack.png # These are both located in the static folder. idk why it wont work in the images folder.
+      dark: badgefleurwhite.png
       width: 60
     width: wide
 
