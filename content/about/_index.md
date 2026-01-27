@@ -8,4 +8,4 @@ A community-building event!
 
 ![](/images/branding/jonathan24.jpg)
 
-We are unaffiliated with the federal government.
+We are unaffiliated with the Unites States federal government.
