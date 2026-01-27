@@ -6,15 +6,9 @@ title: 'Sponsors'
 
 Thank-you to our sponsors for making this event possible!
 
-Add logo here
-[Thot Juice](https://thotjuice.bigcartel.com/)
-Local Winemaker & Merchandising
-Organizes and promotes the event.
+{{< cards >}}
+  {{< card link="https://thotjuice.bigcartel.com/" title="Thot Juice - Local Winemaking & Merchandising" image="/images/branding/thotjuicelogo.png" subtitle="Organizes and promotes the event." >}}
+  {{< card link="https://alphabrewingcompany.com/" title="Alpha Brewing Company" image="/images/branding/abc.png" subtitle="Donates their private party room and graciously hosts our group as the final stop on the bar crawl." >}}
+{{< /cards >}}
 
-Add logo here
-[Alpha Brewing Company](https://alphabrewingcompany.com/)
-4310 Fyler Avenue, St. Louis, Missouri 63116
-Donates their private party room and graciously hosts our group as the final stop on the bar crawl.
-
-Riverfront Cigars
-Provided food at the finale event
+Would you like to become a sponsor? CONTACT for details and opportunities!
