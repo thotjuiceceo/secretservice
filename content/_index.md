@@ -19,6 +19,8 @@ Secret service is a free event! We encourage you to purchase a T-shirt and wear 
 
 
 # Secret Service 2026
-Signups coming soon!
+[Choose the date for 2026](https://docs.google.com/forms/d/e/1FAIpQLSejXjKrYQGSO9irJqBJvOXsJ21ujP_5E5Eo-29Mf2bGDCLdAw/viewform?usp=publish-editor) (Pls fill out by Feb 22)
+
+Registration will go live two months before the date of the event, so probably early-mid March.
 
 ![](/images/branding/trashservice.png)
