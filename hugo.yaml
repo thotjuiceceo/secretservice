@@ -1,5 +1,5 @@
 # Hugo configuration file
-baseURL: "https://thotjuiceceo.github.io/SecretService/"
+baseURL: "/"
 languageCode: en-us
 title: Secret Service Project
 
