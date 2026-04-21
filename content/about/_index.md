@@ -17,4 +17,7 @@ The Bar Crawl takes place on Morgan Ford Rd in the Tower Grove South neighborhoo
 
 Participation in the volunteer and bar crawl portions of Secret Service are entirely free! However, you will need to purchase a [T-Shirt](https://secretservicestl.org/about/shirts/) for entry into the Barrel Room (the t-shirt is your ticket into the event). A small profit is generated from T-shirt sales to pay for website hosting fees and marketing materials. Food, karaoke, and The Barrel Room are provided on behalf of event sponsors.
 
+PAST PHOTOS: [Bar Crawl](https://secretservicestl.org/about/crawl/past/) --
+[Service Events](https://secretservicestl.org/about/orgs/)
+
 "Secret Service" is a play on words; we are unaffiliated with the Unites States federal government.
