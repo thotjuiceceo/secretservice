@@ -14,7 +14,6 @@ Each Spring (AKA "Baby Season"), the Wildlife Mediation team are inundated with 
 
 If you come across an injured or misplaced wild animal, please consult the [Wildlife Mediation website](https://www.wildlifemediation.com/) before initiating contact.
 
-
 <div align="center">
 <a href="https://venmo.com/u/LeeAnn-Tapscott-1">Donate Here</a>
 </div>

@@ -52,7 +52,7 @@ menu:
         type: search
     - name: Facebook
       weight: 6
-      url: "http://facebook.com"
+      url: "https://www.facebook.com/people/The-Secret-Service-Project/61570748790790/"
       params:
         icon: facebook
     - name: Instagram

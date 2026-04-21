@@ -5,6 +5,13 @@ title: The Secret Service Project - Home
 ---
 Welcome to the home of Saint Louis' Secret Service Project - an annual bar crawl and volunteer event.
 
+# Secret Service 2026 - Registration
+Registration for the 2026 Secret Service event is now [OPEN](https://secretservicestl.org/signup/). Registration will close May 30th. Sign up today!
+
+![](/images/2026/Poster2026_IGratioV3.png)
+
+Posted April 20, 2026 10:00PM
+
 # Secret Service 2026 - Announcement
 
 The third annual Secret Service Event will take place **Saturday, June 13th 2026** on Morgan Ford Road in the Tower Grove South neighborhood of Saint Louis. More information is available in the [About](https://thotjuiceceo.github.io/SecretService/about/) section of this website.
